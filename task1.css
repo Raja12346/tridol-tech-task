@@ -1,0 +1,38 @@
+table,th,td{
+    border:1px solid rgb(135, 223, 11);
+}
+.a1{
+    text-align: center;
+    background-color: rgb(65, 228, 11);
+}
+
+.a2{
+    text-align: center;
+    background-color: rgb(16, 160, 217);
+
+}
+.a3{
+    text-align: center;
+    background-color: rgb(18, 214, 225);
+
+}
+.a4{
+    text-align: center;
+    background-color: rgb(22, 167, 220);
+
+}
+.a5{
+    text-align: center;
+    background-color: rgb(26, 144, 235);
+
+}
+.a6{
+    text-align: center;
+    background-color: rgb(6, 203, 247);
+
+}
+.a7{
+    text-align: center;
+    background-color: rgb(13, 214, 225);
+
+}
